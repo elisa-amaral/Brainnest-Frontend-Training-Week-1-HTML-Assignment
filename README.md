@@ -1,6 +1,6 @@
-# Brainnest Front-End Training Week 1 HTML Assignment
+# Brainnest Frontend Training Week 1 HTML Assignment
 
-This project is the Week 1 Assignment of the Brainnest Front-End Training, it's an HTML-only website with my favorite hobbies, books and movies.
+This project is the Week 1 Assignment of the Brainnest Frontend Training, it's an HTML-only website with my favorite hobbies, books and movies.
 
 ## Project Link
 
